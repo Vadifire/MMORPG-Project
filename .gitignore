@@ -1,0 +1,33 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+.DS_Store
+*.njsproj
+*.vs/
+*.sln
+*.vscode/
+
+# Shortcuts
+*.lnk
+
+# Generated css
+styles.css
+
+# Binaries
+bin/
+obj/
+
+# Project Files
+*.xml
+
+# Save Files
+*.isav
+*.sav
+
+# Compile / Run bats
+*.bat
+*.cmd
