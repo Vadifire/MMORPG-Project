@@ -1,2 +1,2 @@
 # MMORPG_Project
-An old MMORPG project I started
+An old MMORPG project
